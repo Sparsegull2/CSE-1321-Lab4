@@ -21,7 +21,7 @@ class Lab4B{
         }
         else if (day == "friday")
         {
-            Console.WriteLine("It’s Friday! Friday! Gotta get down on Friday!");
+            Console.WriteLine(" It’s Friday! Friday! Gotta get down on Friday!");
         }
         else if(day == "tuesday"||day=="thursday"||day=="saturday"||day=="sunday")
         {
